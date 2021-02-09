@@ -1,5 +1,6 @@
 # odrive_ros
 ROS driver for the [ODrive motor driver](https://odriverobotics.com/)
+By Josh Marshall (neomanic)
 
 This is a basic first pass at a ROS driver. It's Python-based, so not super-fast, but it'll get you started. Maybe in time this will have an optimised C++ version, but I woudn't count on it anytime soon. ;)
 
