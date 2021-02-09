@@ -2,7 +2,9 @@
 ROS driver for the [ODrive motor driver](https://odriverobotics.com/) based on Josh Marshall's [odrive_ros](https://github.com/neomanic/odrive_ros).
 Modified for interfacing with and controlling the Lafayette OpenDog robot. 
 
-This repository was developed over the summer of 2019 for the Lafayette OpenDog robot. 
+This repository was developed over the summer of 2019 for the Lafayette OpenDog robot and was used to interface with ODrive motor controllers. We succeeded in implementing a simple walking gait (box pattern) on a single leg. The basic organization of the nodes is as follows:
+
+<img src = "images/OpenDog-Node-Organization.png">
 
 
 The Lafayette OpenDog Senior Design Team continued this project over the 2019-2020 school year. To see the most up-to-date progress and documentation, check out the following repositories:
