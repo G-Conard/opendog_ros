@@ -4,6 +4,16 @@ Modified for interfacing with and controlling the Lafayette OpenDog robot.
 
 This repository was developed over the summer of 2019 for the Lafayette OpenDog robot. 
 
+
+The Lafayette OpenDog Senior Design Team continued this project over the 2019-2020 school year. To see the most up-to-date progress and documentation, check out the following repositories:
+1. OpenDog: https://github.com/sanhalee17/Lafayette_OpenDog
+2. OpenDog gazebo: https://github.com/sanhalee17/Lafayette_OpenDog_gazebo
+3. OpenPup ROS package: https://github.com/fainorr/openpup_ros
+4. Inverse kinematics sub-team: https://github.com/fainorr/opendog_IK
+5. Gazebo hallway navigation simulations: https://github.com/fainorr/hallway_sim
+6. Realistic leg model: https://github.com/whalenc/opendog_leg_description
+7. Simple closed loop:https://github.com/whalenc/Fourbar
+
 ### Basic Operation
 There are two options to run the code:
 - To run code: rosrun odrive_ros odrive_node
