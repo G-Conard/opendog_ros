@@ -49,7 +49,7 @@ If you want to use wannabe sliders and see the “dashboard”:
 
 The diagram below maps out the geometry of the leg and significant angles for controlling the foot position.
 
-<img src = "images/Updated-Full-Assembly-IK.png">
+<img src = "images/Updated-Full-Assembly-IK.PNG">
 
 Right now, I don’t have a launch file set up, so starting things up will be really annoying, but it is better for debugging (because it forces you to run each script individually and see what’s happening).  So it takes some patience…
 
